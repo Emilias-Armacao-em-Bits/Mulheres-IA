@@ -1,4 +1,4 @@
-# Mulheres da IA
+# Mulheres & IA
 
 
 - [Mulheres podem ser ciborgues? Gênero, Feminismo e Inteligência Artificial](https://www.airespucrs.org/post/mulheres-podem-ser-ciborgues-g%C3%AAnero-feminismo-e-intelig%C3%AAncia-artificial)
@@ -8,3 +8,4 @@
 - [Emily Bender: “Los chatbots no deberían hablar en primera persona. Es un problema que parezcan humanos”](https://elpais.com/tecnologia/2023-03-18/emily-bender-los-chatbots-no-deberian-hablar-en-primera-persona-es-un-problema-que-parezcan-humanos.html)
 - [Lemos o artigo que levou à demissão de Timnit Gebru do Google. Veja o que ele diz](https://mittechreview.com.br/lemos-o-artigo-que-levou-a-demissao-de-timnit-gebru-do-google/)
 - [Saída de líder de Ética na IA da Google leva a discussão sobre ética da Google](https://shifter.pt/2020/12/timnit-gebru-google/)
+- [A importância da participação feminina no mercado da Inteligência Artificial](https://olhardigital.com.br/2022/06/27/colunistas/a-importancia-da-participacao-feminina-no-mercado-da-inteligencia-artificial/)
