@@ -9,3 +9,7 @@
 - [Lemos o artigo que levou à demissão de Timnit Gebru do Google. Veja o que ele diz](https://mittechreview.com.br/lemos-o-artigo-que-levou-a-demissao-de-timnit-gebru-do-google/)
 - [Saída de líder de Ética na IA da Google leva a discussão sobre ética da Google](https://shifter.pt/2020/12/timnit-gebru-google/)
 - [A importância da participação feminina no mercado da Inteligência Artificial](https://olhardigital.com.br/2022/06/27/colunistas/a-importancia-da-participacao-feminina-no-mercado-da-inteligencia-artificial/)
+- [Una crítica a la inteligencia artificial más allá de los sesgos](https://www.elsaltodiario.com/paradoja-jevons-ciencia-poder/critica-inteligencia-artificial-sesgos)
+- [Inteligencias Artificiales y Feminismo](https://kalindalamar.medium.com/inteligencia-artificial-y-feminismo-f1d5c25abcbb)
+- [Mujeres involucradas en la Inteligencia Artificial](https://informacionytic.com/es_ar/2023/04/26/mujeres-involucradas-en-la-inteligencia-artificial/)
+- [O papel decisivo das mulheres nas comunidades científicas e tecnológicas](https://www.fiern.org.br/o-papel-decisivo-das-mulheres-nas-comunidades-cientificas-e-tecnologicas/)
