@@ -13,3 +13,4 @@
 - [Inteligencias Artificiales y Feminismo](https://kalindalamar.medium.com/inteligencia-artificial-y-feminismo-f1d5c25abcbb)
 - [Mujeres involucradas en la Inteligencia Artificial](https://informacionytic.com/es_ar/2023/04/26/mujeres-involucradas-en-la-inteligencia-artificial/)
 - [O papel decisivo das mulheres nas comunidades científicas e tecnológicas](https://www.fiern.org.br/o-papel-decisivo-das-mulheres-nas-comunidades-cientificas-e-tecnologicas/)
+- [Pode a Inteligência Artificial ser feminista? E o que podemos aprender a tentar?](https://shifter.pt/2021/08/inteligencia-artificial-feminista/)
