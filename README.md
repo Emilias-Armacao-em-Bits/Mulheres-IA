@@ -15,3 +15,4 @@
 - [O papel decisivo das mulheres nas comunidades científicas e tecnológicas](https://www.fiern.org.br/o-papel-decisivo-das-mulheres-nas-comunidades-cientificas-e-tecnologicas/)
 - [Pode a Inteligência Artificial ser feminista? E o que podemos aprender a tentar?](https://shifter.pt/2021/08/inteligencia-artificial-feminista/)
 - [Wittgenstein, Natural Language Processing, and Ethics of Technology](https://cissct.duke.edu/sites/cissct.duke.edu/files/documents/Luksic.pdf)
+- [Qual a real ameaça das Inteligências Artificiais?](https://www.youtube.com/watch?v=mXiJMrl1Cmk)
